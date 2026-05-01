@@ -17,17 +17,7 @@
 
 ---
 
-## ⚙️ Tech Stack
-- JavaScript
-- Node.js
-- Express.js
-- MongoDB
-- React (Learning)
-- REST APIs
-- Git & GitHub
-- OpenAI API (AI Integration - Learning)
-
- ## 🛠 Tech Stack
+## 🛠 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
 ![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
@@ -39,12 +29,13 @@
 ---
 
 ## ⚙️ Development Workflow
-
 - Build REST APIs with Node.js & Express
 - Design scalable backend architecture
 - Integrate third-party APIs (Twilio, OpenAI)
 - Work with MongoDB for data management
 - Deploy applications and test real-world usage
+
+---
 
 ## 🚀 Projects
 
@@ -96,10 +87,6 @@
 ## 🌐 Connect with Me
 
 <p align="center">
-  <a href="mailto:yourmail@gmail.com">Email</a> •
-  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+  <a href="mailto:avinashreddy3020@gmail.com">Email</a> •
+  <a href="https://www.linkedin.com/in/avinash-reddy-rs3020">LinkedIn</a>
 </p>
-
-## 📫 Contact
-- Email: avinashreddy3020@gmail.com  
-- LinkedIn: https://www.linkedin.com/in/avinash-reddy-rs3020
