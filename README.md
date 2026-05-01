@@ -27,7 +27,24 @@
 - Git & GitHub
 - OpenAI API (AI Integration - Learning)
 
+ ## 🛠 Tech Stack
+
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript)
+![Node.js](https://img.shields.io/badge/Node.js-green?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-grey?style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-darkgreen?style=for-the-badge&logo=mongodb)
+![React](https://img.shields.io/badge/React-blue?style=for-the-badge&logo=react)
+![Git](https://img.shields.io/badge/Git-orange?style=for-the-badge&logo=git)
+
 ---
+
+## ⚙️ Development Workflow
+
+- Build REST APIs with Node.js & Express
+- Design scalable backend architecture
+- Integrate third-party APIs (Twilio, OpenAI)
+- Work with MongoDB for data management
+- Deploy applications and test real-world usage
 
 ## 🚀 Projects
 
@@ -64,10 +81,24 @@
 
 ---
 
-## 📈 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=avinashreddy3020&show_icons=true)
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=avinashreddy3020&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=avinashreddy3020&theme=tokyonight" />
+</p>
 
 ---
+
+## 🌐 Connect with Me
+
+<p align="center">
+  <a href="mailto:yourmail@gmail.com">Email</a> •
+  <a href="https://linkedin.com/in/yourprofile">LinkedIn</a>
+</p>
 
 ## 📫 Contact
 - Email: avinashreddy3020@gmail.com  
