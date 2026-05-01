@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=200&section=header&text=Avinash%20Reddy&fontSize=40&fontColor=ffffff" />
+</p>
+
 # 👋 Hi, I'm Avinash Reddy
 
 🚀 Full Stack Developer | Backend Engineer | AI-Powered Application Builder | Open to Full-Time Opportunities
@@ -67,5 +71,4 @@
 
 ## 📫 Contact
 - Email: avinashreddy3020@gmail.com  
-- LinkedIn: www.linkedin.com/in/
-avinash-reddy-rs3020
+- LinkedIn: https://www.linkedin.com/in/avinash-reddy-rs3020
