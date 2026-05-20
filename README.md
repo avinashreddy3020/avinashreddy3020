@@ -36,29 +36,34 @@
 - Deploy applications and test real-world usage
 
 ---
-
 ## 🚀 Projects
 
 ### 📌 AI Resume Analyzer (AI + PDF Parsing + MongoDB)
-Developed an AI-powered Resume Analyzer application using Node.js, Express.js, and MongoDB
-Integrated AI APIs to analyze resumes and generate smart feedback with resume scoring
-Implemented PDF upload and text extraction functionality using Multer and PDF parsing
-Built REST APIs for resume analysis history and data management
-Designed scalable backend architecture for AI-based resume processing
+
+* Developed an AI-powered Resume Analyzer application using Node.js, Express.js, and MongoDB
+* Integrated AI APIs to analyze resumes and generate smart feedback with resume scoring
+* Implemented PDF upload and text extraction functionality using Multer and PDF parsing
+* Built REST APIs for resume analysis history and data management
+* Designed scalable backend architecture for AI-based resume processing
+
+---
 
 ### 📌 WhatsApp Automation Bot (Twilio + Node.js)
-- Built a WhatsApp automation system using Twilio API
-- Designed webhook-based backend to process incoming messages in real time
-- Developed scalable Node.js + Express server for message handling and responses
-- Integrated API-based communication flow for automated replies
+
+* Built a WhatsApp automation system using Twilio API
+* Designed webhook-based backend to process incoming messages in real time
+* Developed scalable Node.js + Express server for message handling and responses
+* Integrated API-based communication flow for automated replies
 
 ---
 
 ### 📌 Expense Tracker Application
-- Developed a full-stack expense management system
-- Built RESTful APIs for creating, reading, updating, and deleting expenses
-- Used MongoDB for efficient data storage and retrieval
-- Focused on backend architecture and clean API design
+
+* Developed a full-stack expense management system
+* Built RESTful APIs for creating, reading, updating, and deleting expenses
+* Used MongoDB for efficient data storage and retrieval
+* Focused on backend architecture and clean API design
+---
 
 ---
 
