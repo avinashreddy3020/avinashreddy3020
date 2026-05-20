@@ -39,6 +39,13 @@
 
 ## 🚀 Projects
 
+### 📌 AI Resume Analyzer (AI + PDF Parsing + MongoDB)
+Developed an AI-powered Resume Analyzer application using Node.js, Express.js, and MongoDB
+Integrated AI APIs to analyze resumes and generate smart feedback with resume scoring
+Implemented PDF upload and text extraction functionality using Multer and PDF parsing
+Built REST APIs for resume analysis history and data management
+Designed scalable backend architecture for AI-based resume processing
+
 ### 📌 WhatsApp Automation Bot (Twilio + Node.js)
 - Built a WhatsApp automation system using Twilio API
 - Designed webhook-based backend to process incoming messages in real time
